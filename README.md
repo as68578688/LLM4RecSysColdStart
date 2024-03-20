@@ -1,2 +1,12 @@
-# LLM4RecSysColdStart
-The code is proprietary and will be released soon upon approval.
+## Language Model Prior for Item Cold Start
+
+Codebase for the work Language Model Prior for Item Cold Start.
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License
+
+This project is licensed under the Apache-2.0 License.
+
